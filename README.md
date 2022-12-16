@@ -1,13 +1,13 @@
-<h1> Freeway </h1>
+# Freeway 
 
-<h2> Apresentação </h2>
+<h1> Apresentação </h1>
 
-Meu segundo projeto em javascript realizado na formação Iniciante em Programação na Alura.
+<p>Meu segundo projeto em javascript realizado na formação Iniciante em Programação na Alura.</p>
 
-<h3> Status do Projeto </h3>
+<h2> Status do Projeto </h2>
 
-Apesar de já estar finalizado, estou usando esse projeto para desenvolver e treinar minhas habilidades no uso do git e do github, e ainda estou aprendendo a alguns detalhes.
+<p>Apesar de já estar finalizado, estou usando esse projeto para desenvolver e treinar minhas habilidades no uso do git e do github, e ainda estou aprendendo a alguns detalhes.</p>
 
-<h4> Descrição do Projeto </h4>
+<h3> Descrição do Projeto </h3>
 
-O projeto se trata de um jogo, criado em javascript sendo uma releitura do clássico Freeway, jogo lançado para o console Atari 2600 em 1981. 
+<p>O projeto se trata de um jogo, criado em javascript sendo uma releitura do clássico Freeway, jogo lançado para o console Atari 2600 em 1981.</p> 
